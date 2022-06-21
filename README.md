@@ -1,0 +1,2 @@
+# newzuri
+Django crud
